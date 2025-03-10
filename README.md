@@ -73,7 +73,7 @@
 ## **Задание 2**
 
 - Создание Service и подключение его к Pod:
- Dashboard:
+-  Dashboard:
 - ![scrin](https://github.com/Evgenii-379/1.2-1.2.md/blob/main/Снимок%20экрана%202025-03-10%20233159.png)
 
 - Подключение локально к Service спомощью kubectl port-forward:
